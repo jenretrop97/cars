@@ -1,0 +1,51 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/jenniferporter/cars_fall19/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/jenniferporter/cars_fall19/app/models/car.rb": [
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1568163720
+  }
+}
